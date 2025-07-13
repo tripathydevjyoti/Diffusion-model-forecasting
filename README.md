@@ -39,4 +39,4 @@ This project presents a comparative analysis of classical ARIMA models and moder
 ### 📁 Files
 
 - `diff_stock_forecast.ipynb`: Full implementation of ARIMA and diffusion-based forecasting pipelines.
-- `CMSC_678_Final_Project_Report.pdf`: Full technical report detailing methods, diagnostics, results, and future directions.
+- `Project_Report.pdf`: Full technical report detailing methods, diagnostics, results, and future directions.
